@@ -13,8 +13,7 @@ function Navbar() {
 								</svg>
         </div>
         <div className='links'>
-            {["Services", "Our Work", "About Us", "Insights"].map((item,index)=>(
-                <a key={index} className='text-md font-semibold'>{item}</a>))}
+            {["Home", "About", "ContactUs"].map((item, index)=>(<a key={index} className='text-md'>{item}</a>))}
         </div>
 
     </div>
