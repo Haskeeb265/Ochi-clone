@@ -1,6 +1,7 @@
 import React from 'react'
 import Navbar from './components/Navbar'
 import LandingPage from './components/LandingPage'
+import Marquee from './components/Marquee'
 
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
     <div className='w-full h-screen text-neutral-50'>
       <Navbar />
       <LandingPage />
+      <Marquee />
     </div>
   )
 }
