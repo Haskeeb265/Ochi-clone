@@ -29,7 +29,7 @@ function About() {
             <div className='w-2.5 h-2.5 bg-white rounded-full'></div>
           </button>
         </div>
-        <div className='w-1/2 h-[50vh] bg-red-600 ml-[45vw] -mt-[18vh] rounded-[10px] bg-[#928473] '></div>   
+        <div className='w-1/2 h-[50vh] bg-red-600 ml-[45vw] -mt-[18vh] rounded-[10px] bg-[#988977] '></div>   
     </div>
   )
 }
