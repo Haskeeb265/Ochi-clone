@@ -20,14 +20,12 @@ function Featured() {
         <div><ul className='mb-6 list-disc text-[1vw] font-semibold mr-16'><li>VISE</li></ul></div>
         <div className='mb-6 w-full h-[35vw] bg-zinc-950 rounded-lg'></div>
         <div className='tags flex gap-5'>
-          <p className='border-[1px] border-black rounded-full p-2'>AUDIT</p>
-          <p className='border-[1px] border-black rounded-full p-2'>COPYWRITING</p>
-          <p className='border-[1px] border-black rounded-full p-2'>SALES DECK</p>
-          <p className='border-[1px] border-black rounded-full p-2'>SLIDES DESIGN</p>
+          <p className='border-[1px] border-black rounded-full p-2'>AGENCY</p>
+          <p className='border-[1px] border-black rounded-full p-2'>COMPANY PRESENTATION</p>
+
         </div>        
         </div>
       </div>
-      
     </div>
   )
 }
